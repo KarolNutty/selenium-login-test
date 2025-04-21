@@ -79,4 +79,4 @@ Feito com 💙 por [Karol](https://github.com/seu-usuario) — focada em QA, aut
 
 Esse é um projeto iniciante, ideal pra quem está começando com automação de testes. Em breve, será estendido para testes com múltiplos cenários e integração com frameworks de testes como **Mocha**, **Jest** e **Cypress**.
 
-```
+
